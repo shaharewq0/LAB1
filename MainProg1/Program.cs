@@ -18,7 +18,7 @@ namespace MainProg1
             IBL abl = new Product_BL(adal);
             IPL apl = new PL_CLI(abl);
 
-            apl.Run();
+            apl.Run();// sjdhasjkhfasjko;jhfo'sdhgk;hdso'jk
 
         }
     }
