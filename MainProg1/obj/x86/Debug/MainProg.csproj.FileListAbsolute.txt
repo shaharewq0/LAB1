@@ -26,3 +26,16 @@ C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\MainProg1\bin\Debug\BL_Ba
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\MainProg1\obj\x86\Debug\MainProg.csprojResolveAssemblyReference.cache
 C:\Users\admin\Desktop\3 Tier\MainProg1\obj\x86\Debug\MainProg1.exe
 C:\Users\admin\Desktop\3 Tier\MainProg1\obj\x86\Debug\MainProg1.pdb
+D:\documents\git\3 Tier\MainProg1\bin\Debug\MainProg1.exe
+D:\documents\git\3 Tier\MainProg1\bin\Debug\MainProg1.pdb
+D:\documents\git\3 Tier\MainProg1\bin\Debug\BL.dll
+D:\documents\git\3 Tier\MainProg1\bin\Debug\DAL.dll
+D:\documents\git\3 Tier\MainProg1\bin\Debug\PL.dll
+D:\documents\git\3 Tier\MainProg1\bin\Debug\BL_Backend.dll
+D:\documents\git\3 Tier\MainProg1\bin\Debug\BL.pdb
+D:\documents\git\3 Tier\MainProg1\bin\Debug\DAL.pdb
+D:\documents\git\3 Tier\MainProg1\bin\Debug\PL.pdb
+D:\documents\git\3 Tier\MainProg1\bin\Debug\BL_Backend.pdb
+D:\documents\git\3 Tier\MainProg1\obj\x86\Debug\MainProg.csprojResolveAssemblyReference.cache
+D:\documents\git\3 Tier\MainProg1\obj\x86\Debug\MainProg1.exe
+D:\documents\git\3 Tier\MainProg1\obj\x86\Debug\MainProg1.pdb

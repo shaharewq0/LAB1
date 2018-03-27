@@ -19,3 +19,10 @@ C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\DAL\bin\Debug\BL_Backend.
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\DAL\obj\Debug\DAL.dll
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\DAL\obj\Debug\DAL.pdb
+D:\documents\git\3 Tier\DAL\bin\Debug\DAL.dll
+D:\documents\git\3 Tier\DAL\bin\Debug\DAL.pdb
+D:\documents\git\3 Tier\DAL\bin\Debug\BL_Backend.dll
+D:\documents\git\3 Tier\DAL\bin\Debug\BL_Backend.pdb
+D:\documents\git\3 Tier\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\documents\git\3 Tier\DAL\obj\Debug\DAL.dll
+D:\documents\git\3 Tier\DAL\obj\Debug\DAL.pdb
